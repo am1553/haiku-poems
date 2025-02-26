@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Haiku
+comment0.text=\n\ (1a)\ Generating\ random\ Haiku\ poems.\n\n\ @author\ Aryan\ Mehta\n\ @version\ 23/02/2025\n
+comment1.params=
+comment1.target=Haiku()
+comment2.params=sampleWords
+comment2.target=java.util.ArrayList\ toArrayListString(java.lang.String[])
+comment2.text=\n\ Get\ the\ sample\ words\ in\ ArrayList<String>\ structure\ \n\ @param\ sampleWords\ an\ array\ of\ sample\ words\n\ @return\ sample\ words\ in\ ArrayList<String>\ structure\n
+comment3.params=
+comment3.target=void\ populate()
+comment4.params=
+comment4.target=void\ printWords()
+comment5.params=syllsCount\ word
+comment5.target=void\ addWord(int,\ java.lang.String)
+comment5.text=\n\ (1e)\ Add\ word\ to\ the\ words\ map\ based\ on\ the\ syllables\ count\n\ @param\ syllsCount\ number\ of\ syllables\ in\ the\ word\n\ @param\ word\ a\ word\ to\ be\ added\ \n
+comment6.params=totalSyllables
+comment6.target=java.lang.String\ makeLine(int)
+comment6.text=\n\ (1f)\ Create\ a\ single\ line\ of\ a\ poem\n\ @param\ totalSyllables\ the\ number\ of\ syllables\ the\ line\ should\ have\ in\ total\n
+comment7.params=
+comment7.target=void\ printHaiku()
+numComments=8
